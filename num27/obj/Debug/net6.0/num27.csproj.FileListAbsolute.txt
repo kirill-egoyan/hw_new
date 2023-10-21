@@ -1,0 +1,15 @@
+C:\Users\Пользователь\Desktop\new_homework\hw\num27\bin\Debug\net6.0\num27.exe
+C:\Users\Пользователь\Desktop\new_homework\hw\num27\bin\Debug\net6.0\num27.deps.json
+C:\Users\Пользователь\Desktop\new_homework\hw\num27\bin\Debug\net6.0\num27.runtimeconfig.json
+C:\Users\Пользователь\Desktop\new_homework\hw\num27\bin\Debug\net6.0\num27.dll
+C:\Users\Пользователь\Desktop\new_homework\hw\num27\bin\Debug\net6.0\num27.pdb
+C:\Users\Пользователь\Desktop\new_homework\hw\num27\obj\Debug\net6.0\num27.csproj.AssemblyReference.cache
+C:\Users\Пользователь\Desktop\new_homework\hw\num27\obj\Debug\net6.0\num27.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Пользователь\Desktop\new_homework\hw\num27\obj\Debug\net6.0\num27.AssemblyInfoInputs.cache
+C:\Users\Пользователь\Desktop\new_homework\hw\num27\obj\Debug\net6.0\num27.AssemblyInfo.cs
+C:\Users\Пользователь\Desktop\new_homework\hw\num27\obj\Debug\net6.0\num27.csproj.CoreCompileInputs.cache
+C:\Users\Пользователь\Desktop\new_homework\hw\num27\obj\Debug\net6.0\num27.dll
+C:\Users\Пользователь\Desktop\new_homework\hw\num27\obj\Debug\net6.0\refint\num27.dll
+C:\Users\Пользователь\Desktop\new_homework\hw\num27\obj\Debug\net6.0\num27.pdb
+C:\Users\Пользователь\Desktop\new_homework\hw\num27\obj\Debug\net6.0\num27.genruntimeconfig.cache
+C:\Users\Пользователь\Desktop\new_homework\hw\num27\obj\Debug\net6.0\ref\num27.dll
