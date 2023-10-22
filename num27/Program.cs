@@ -1,5 +1,5 @@
-﻿System.Console.Write("Введите число: ");
-int A = Convert.ToInt32(Console.ReadLine());
+﻿int NumSum(int A)
+{
 int B = 1;
 int result = 0;
 int ost = 0;
@@ -9,4 +9,8 @@ while(A > B)
     A = A / 10;
     result = result + ost;
 }
-System.Console.WriteLine(result);
+return result;
+}
+System.Console.Write("Введите число: ");
+int A = Convert.ToInt32(Console.ReadLine());
+System.Console.WriteLine(NumSum(A));
