@@ -1,0 +1,15 @@
+C:\Users\Пользователь\Desktop\new_homework\hw\num29\obj\Debug\net6.0\num29.csproj.AssemblyReference.cache
+C:\Users\Пользователь\Desktop\new_homework\hw\num29\obj\Debug\net6.0\num29.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Пользователь\Desktop\new_homework\hw\num29\obj\Debug\net6.0\num29.AssemblyInfoInputs.cache
+C:\Users\Пользователь\Desktop\new_homework\hw\num29\obj\Debug\net6.0\num29.AssemblyInfo.cs
+C:\Users\Пользователь\Desktop\new_homework\hw\num29\obj\Debug\net6.0\num29.csproj.CoreCompileInputs.cache
+C:\Users\Пользователь\Desktop\new_homework\hw\num29\bin\Debug\net6.0\num29.exe
+C:\Users\Пользователь\Desktop\new_homework\hw\num29\bin\Debug\net6.0\num29.deps.json
+C:\Users\Пользователь\Desktop\new_homework\hw\num29\bin\Debug\net6.0\num29.runtimeconfig.json
+C:\Users\Пользователь\Desktop\new_homework\hw\num29\bin\Debug\net6.0\num29.dll
+C:\Users\Пользователь\Desktop\new_homework\hw\num29\bin\Debug\net6.0\num29.pdb
+C:\Users\Пользователь\Desktop\new_homework\hw\num29\obj\Debug\net6.0\num29.dll
+C:\Users\Пользователь\Desktop\new_homework\hw\num29\obj\Debug\net6.0\refint\num29.dll
+C:\Users\Пользователь\Desktop\new_homework\hw\num29\obj\Debug\net6.0\num29.pdb
+C:\Users\Пользователь\Desktop\new_homework\hw\num29\obj\Debug\net6.0\num29.genruntimeconfig.cache
+C:\Users\Пользователь\Desktop\new_homework\hw\num29\obj\Debug\net6.0\ref\num29.dll
